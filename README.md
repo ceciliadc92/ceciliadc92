@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Cecilia Ciccone!👋
 
-<h3 align="center">A passionate Frontend Developer from Argentina &#127470;&#127475</h3>
+<h3 align="center">A passionate Frontend Developer from Argentina</h3>
 
 <div id="header" align="center">
 <img src= "https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
